@@ -2,6 +2,6 @@ def hight_word(value):
     """Функция переводит введенное слово в верхний регистр"""
     return value.upper()
 
-def first_hight(val):
+def first_hight(value):
     """Функция делает первую букву каждого слова заглавной"""
-    return val.title()
+    return value.title()
